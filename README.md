@@ -1,9 +1,18 @@
 <div align="center" style="position: relative; display: inline-block;">
   <!-- Profile Picture -->
-  <img src="https://github.com/Weirdo-147.png" alt="Profile Picture" style="width: 250px; height: 250px; border-radius: 100%; margin-bottom: 20px;" />
+  <img
+    src="https://github.com/Weirdo-147.png"
+    alt="Profile Picture"
+    style="width: 250px; height: 250px; border-radius: 50%; margin-bottom: 20px; object-fit: cover; border: 5px solid #e0e0e0;"
+  />
   <!-- Greeting GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28ybncwcHZncnFocHBiamU2OXNmNWRsa3o3ZHF2cWg4bW1saTM3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qht5pnvl9kSRWXz7uF/giphy.gif" alt="Greeting GIF" style="width: 50px; height: 50px; border-radius: 50%; position: absolute; bottom: 0; right: 10;" />
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28ybncwcHZncnFocHBiamU2OXNmNWRsa3o3ZHF2cWg4bW1saTM3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qht5pnvl9kSRWXz7uF/giphy.gif"
+    alt="Greeting GIF"
+    style="width: 66px; height: 66px; border-radius: 50%; position: absolute; bottom: 10px; right: 10px; object-fit: cover; border: 3px solid #ffffff;"
+  />
 </div>
+
 
 ---
 
@@ -64,8 +73,8 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/supabase-logo.svg" alt="Supabase" height="50" /></a>  
-<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/heroku-icon.svg" alt="Heroku" height="50" /></a>  
+<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="Supabase" height="50" /></a>  
+<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku" height="50" /></a>  
 </div>
 
 </td></tr></table>  
