@@ -25,7 +25,7 @@
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none; vertical-align: top;">
-      - 🔭 I’m currently working on [FileFlex](https://github.com/rweirdo-147/fileflex).<br>
+      - 🔭 I’m currently working on [FileFlex](https://github.com/weirdo-147/fileflex).<br>
       - 🌱 Exploring Flask and refining deployment techniques.<br>
       - 🎯 Ask me anything about full-stack development, Django, or React.<br>
       - 🧠 Passionate about AI, data science, and creating impactful tools for developers.<br>
